@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PC FULL\\Desktop\\Programacao-Procedural\\listas\\lista1\\exercicio3\\exercicio3.csproj": {}
+    "C:\\Users\\PC FULL\\Desktop\\Programacao-Procedural\\Listas\\Lista1\\exercicio3\\exercicio3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PC FULL\\Desktop\\Programacao-Procedural\\listas\\lista1\\exercicio3\\exercicio3.csproj": {
+    "C:\\Users\\PC FULL\\Desktop\\Programacao-Procedural\\Listas\\Lista1\\exercicio3\\exercicio3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC FULL\\Desktop\\Programacao-Procedural\\listas\\lista1\\exercicio3\\exercicio3.csproj",
+        "projectUniqueName": "C:\\Users\\PC FULL\\Desktop\\Programacao-Procedural\\Listas\\Lista1\\exercicio3\\exercicio3.csproj",
         "projectName": "exercicio3",
-        "projectPath": "C:\\Users\\PC FULL\\Desktop\\Programacao-Procedural\\listas\\lista1\\exercicio3\\exercicio3.csproj",
+        "projectPath": "C:\\Users\\PC FULL\\Desktop\\Programacao-Procedural\\Listas\\Lista1\\exercicio3\\exercicio3.csproj",
         "packagesPath": "C:\\Users\\PC FULL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC FULL\\Desktop\\Programacao-Procedural\\listas\\lista1\\exercicio3\\obj\\",
+        "outputPath": "C:\\Users\\PC FULL\\Desktop\\Programacao-Procedural\\Listas\\Lista1\\exercicio3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PC FULL\\AppData\\Roaming\\NuGet\\NuGet.Config"
