@@ -1,0 +1,15 @@
+C:\Users\PC FULL\Desktop\Programacao-Procedural\Listas\Lista3\exercicio2\bin\Debug\net8.0\exercicio2.exe
+C:\Users\PC FULL\Desktop\Programacao-Procedural\Listas\Lista3\exercicio2\bin\Debug\net8.0\exercicio2.deps.json
+C:\Users\PC FULL\Desktop\Programacao-Procedural\Listas\Lista3\exercicio2\bin\Debug\net8.0\exercicio2.runtimeconfig.json
+C:\Users\PC FULL\Desktop\Programacao-Procedural\Listas\Lista3\exercicio2\bin\Debug\net8.0\exercicio2.dll
+C:\Users\PC FULL\Desktop\Programacao-Procedural\Listas\Lista3\exercicio2\bin\Debug\net8.0\exercicio2.pdb
+C:\Users\PC FULL\Desktop\Programacao-Procedural\Listas\Lista3\exercicio2\obj\Debug\net8.0\exercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC FULL\Desktop\Programacao-Procedural\Listas\Lista3\exercicio2\obj\Debug\net8.0\exercicio2.AssemblyInfoInputs.cache
+C:\Users\PC FULL\Desktop\Programacao-Procedural\Listas\Lista3\exercicio2\obj\Debug\net8.0\exercicio2.AssemblyInfo.cs
+C:\Users\PC FULL\Desktop\Programacao-Procedural\Listas\Lista3\exercicio2\obj\Debug\net8.0\exercicio2.csproj.CoreCompileInputs.cache
+C:\Users\PC FULL\Desktop\Programacao-Procedural\Listas\Lista3\exercicio2\obj\Debug\net8.0\exercicio2.sourcelink.json
+C:\Users\PC FULL\Desktop\Programacao-Procedural\Listas\Lista3\exercicio2\obj\Debug\net8.0\exercicio2.dll
+C:\Users\PC FULL\Desktop\Programacao-Procedural\Listas\Lista3\exercicio2\obj\Debug\net8.0\refint\exercicio2.dll
+C:\Users\PC FULL\Desktop\Programacao-Procedural\Listas\Lista3\exercicio2\obj\Debug\net8.0\exercicio2.pdb
+C:\Users\PC FULL\Desktop\Programacao-Procedural\Listas\Lista3\exercicio2\obj\Debug\net8.0\exercicio2.genruntimeconfig.cache
+C:\Users\PC FULL\Desktop\Programacao-Procedural\Listas\Lista3\exercicio2\obj\Debug\net8.0\ref\exercicio2.dll
