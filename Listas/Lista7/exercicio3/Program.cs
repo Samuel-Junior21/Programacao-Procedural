@@ -4,9 +4,11 @@ class Program
 {
     static void Main(string[] args)
     {
+
         int idadeInserida = Convert.ToInt32(Console.ReadLine());
 
         ClassificarNadador(idadeInserida);
+        
     }
 
     static void ClassificarNadador(int idadeInserida)
