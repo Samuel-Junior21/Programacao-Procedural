@@ -19,4 +19,4 @@ Neste módulo iremos estudar os fundamentos da programação de computadores. No
 14. Manipulação de arquivos
 15. Algoritmos clássicos (bubble sort, busca binária)
 
-### Módulo Iniciado em: 10/02/2024 | ### Módulo Concluído em: 13/04/2024
+### Módulo Iniciado em: 10/02/2024 | Módulo Concluído em: 13/04/2024
