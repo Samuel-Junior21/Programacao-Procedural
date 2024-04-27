@@ -5,6 +5,7 @@ class Program
     static void Main(string[] args)
     {
         int altura = int.Parse(Console.ReadLine());
+        
 
         int largura = int.Parse(Console.ReadLine());
 
