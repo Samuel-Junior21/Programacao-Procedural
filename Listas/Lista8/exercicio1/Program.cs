@@ -17,10 +17,13 @@ class Program
         pizza.id = Convert.ToInt32(Console.ReadLine());
         pizza.sabor = Console.ReadLine();
         pizza.preco = Convert.ToDouble(Console.ReadLine());
+        
 
         System.Console.WriteLine();
 
+
         ImprimirDados(pizza);
+
     }
     static void ImprimirDados(Pizza pizza)
     {
