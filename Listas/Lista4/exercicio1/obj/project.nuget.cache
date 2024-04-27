@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "version": 2,
   "dgSpecHash": "QOG52Wf+tzYCS6jQ+sw+g2J5sBKXfilhyjRA8mansX9O7qw7GcZ3r5sGAo/J0yc5qdhzSMcV5sAHNe/A0JomeQ==",
@@ -5,4 +6,13 @@
   "projectFilePath": "C:\\Users\\IFSP\\Documents\\Programacao-Procedural\\Listas\\Lista4\\exercicio1\\exercicio1.csproj",
   "expectedPackageFiles": [],
   "logs": []
+=======
+{
+  "version": 2,
+  "dgSpecHash": "eJj6xFl8zkl4V65vk8OUB6cf9ScyOCNxsPCUqbD1u2uALSpCuk9SHQU39tUg3EBf6AeEvGGA1nly8tVVLgzPvg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC FULL\\Desktop\\Programacao-Procedural\\Listas\\Lista4\\exercicio1\\exercicio1.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+>>>>>>> 9c3e60fafef1fb3a89120b29da5b9d28bbbcdf32
 }

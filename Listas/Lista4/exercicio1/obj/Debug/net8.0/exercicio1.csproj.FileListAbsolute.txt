@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\IFSP\Documents\Programacao-Procedural\Listas\Lista4\exercicio1\bin\Debug\net8.0\exercicio1.exe
 C:\Users\IFSP\Documents\Programacao-Procedural\Listas\Lista4\exercicio1\bin\Debug\net8.0\exercicio1.deps.json
 C:\Users\IFSP\Documents\Programacao-Procedural\Listas\Lista4\exercicio1\bin\Debug\net8.0\exercicio1.runtimeconfig.json
@@ -13,3 +14,20 @@ C:\Users\IFSP\Documents\Programacao-Procedural\Listas\Lista4\exercicio1\obj\Debu
 C:\Users\IFSP\Documents\Programacao-Procedural\Listas\Lista4\exercicio1\obj\Debug\net8.0\exercicio1.pdb
 C:\Users\IFSP\Documents\Programacao-Procedural\Listas\Lista4\exercicio1\obj\Debug\net8.0\exercicio1.genruntimeconfig.cache
 C:\Users\IFSP\Documents\Programacao-Procedural\Listas\Lista4\exercicio1\obj\Debug\net8.0\ref\exercicio1.dll
+=======
+C:\Users\PC FULL\Desktop\Programacao-Procedural\Listas\Lista4\exercicio1\bin\Debug\net8.0\exercicio1.exe
+C:\Users\PC FULL\Desktop\Programacao-Procedural\Listas\Lista4\exercicio1\bin\Debug\net8.0\exercicio1.deps.json
+C:\Users\PC FULL\Desktop\Programacao-Procedural\Listas\Lista4\exercicio1\bin\Debug\net8.0\exercicio1.runtimeconfig.json
+C:\Users\PC FULL\Desktop\Programacao-Procedural\Listas\Lista4\exercicio1\bin\Debug\net8.0\exercicio1.dll
+C:\Users\PC FULL\Desktop\Programacao-Procedural\Listas\Lista4\exercicio1\bin\Debug\net8.0\exercicio1.pdb
+C:\Users\PC FULL\Desktop\Programacao-Procedural\Listas\Lista4\exercicio1\obj\Debug\net8.0\exercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC FULL\Desktop\Programacao-Procedural\Listas\Lista4\exercicio1\obj\Debug\net8.0\exercicio1.AssemblyInfoInputs.cache
+C:\Users\PC FULL\Desktop\Programacao-Procedural\Listas\Lista4\exercicio1\obj\Debug\net8.0\exercicio1.AssemblyInfo.cs
+C:\Users\PC FULL\Desktop\Programacao-Procedural\Listas\Lista4\exercicio1\obj\Debug\net8.0\exercicio1.csproj.CoreCompileInputs.cache
+C:\Users\PC FULL\Desktop\Programacao-Procedural\Listas\Lista4\exercicio1\obj\Debug\net8.0\exercicio1.sourcelink.json
+C:\Users\PC FULL\Desktop\Programacao-Procedural\Listas\Lista4\exercicio1\obj\Debug\net8.0\exercicio1.dll
+C:\Users\PC FULL\Desktop\Programacao-Procedural\Listas\Lista4\exercicio1\obj\Debug\net8.0\refint\exercicio1.dll
+C:\Users\PC FULL\Desktop\Programacao-Procedural\Listas\Lista4\exercicio1\obj\Debug\net8.0\exercicio1.pdb
+C:\Users\PC FULL\Desktop\Programacao-Procedural\Listas\Lista4\exercicio1\obj\Debug\net8.0\exercicio1.genruntimeconfig.cache
+C:\Users\PC FULL\Desktop\Programacao-Procedural\Listas\Lista4\exercicio1\obj\Debug\net8.0\ref\exercicio1.dll
+>>>>>>> 9c3e60fafef1fb3a89120b29da5b9d28bbbcdf32
