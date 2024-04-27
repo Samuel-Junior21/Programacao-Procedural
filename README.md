@@ -1,5 +1,6 @@
 # Módulo 1 - Programação procedural
 
+
 Neste módulo iremos estudar os fundamentos da programação de computadores. Nosso roadmap para esse módulo será:
 
 1. Introdução aos conceitos de computação e programação
@@ -17,3 +18,5 @@ Neste módulo iremos estudar os fundamentos da programação de computadores. No
 13. Funções
 14. Manipulação de arquivos
 15. Algoritmos clássicos (bubble sort, busca binária)
+
+## Módulo Concluído em: 13/04/2024
